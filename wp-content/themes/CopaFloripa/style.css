@@ -13,6 +13,12 @@
 
 #logo { padding-left:341px }
 
+#home-section-info { padding:76px 0 50px; }
+
+#main-footer { padding-top:30px; }
+
+#footer-widgets { margin-bottom:0; }
+
 @media only screen and ( min-width: 768px ) and ( max-width: 960px ) {
 	.et_page_icon { left:68px; }
 	#logo { padding-left:225px; }
@@ -32,3 +38,5 @@
 .service h3 { text-align:center; color:#1a3561; }
 
 .et_color_scheme_blue #main-header { background: rgb(67,169,228); /* Old browsers */ background: -moz-linear-gradient(top,  rgba(67,169,228,1) 0%, rgba(57,154,209,1) 100%); /* FF3.6+ */ background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(67,169,228,1)), color-stop(100%,rgba(57,154,209,1))); /* Chrome,Safari4+ */ background: -webkit-linear-gradient(top,  rgba(67,169,228,1) 0%,rgba(57,154,209,1) 100%); /* Chrome10+,Safari5.1+ */ background: -o-linear-gradient(top,  rgba(67,169,228,1) 0%,rgba(57,154,209,1) 100%); /* Opera 11.10+ */ background: -ms-linear-gradient(top,  rgba(67,169,228,1) 0%,rgba(57,154,209,1) 100%); /* IE10+ */ background: url(images/header-bg.png) bottom repeat-x, linear-gradient(to bottom,  rgba(67,169,228,1) 0%,rgba(57,154,209,1) 100%); /* W3C */ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#43a9e4', endColorstr='#399ad1',GradientType=0 ); /* IE6-9 */  }
+
+
