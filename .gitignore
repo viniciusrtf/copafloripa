@@ -13,3 +13,4 @@ sitemap.xml
 sitemap.xml.gz
 */error_log
 backup/
+fix.php
