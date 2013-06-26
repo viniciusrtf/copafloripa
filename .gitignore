@@ -14,3 +14,5 @@ sitemap.xml.gz
 */error_log
 backup/
 fix.php
+.ftpquota
+wp-content/uploads/wpcf7_captcha/
